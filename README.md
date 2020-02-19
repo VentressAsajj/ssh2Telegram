@@ -17,4 +17,4 @@ El script de configuración no tiene nada especial:
 USERID=ID
 KEY="token"
 El id del usuario lo puede obtener ejecutando:
-# curl -s https://api.telegram.org/botTOKEN/getUpdates
+curl -s https://api.telegram.org/botTOKEN/getUpdates
